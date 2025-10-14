@@ -5,7 +5,7 @@ Complete code implementation of the KrushiMitra AI-powered agricultural assistan
 ## Demo Links
 
 - **YouTube Demo**: https://youtu.be/qeAC5Sxf1Mo
-- **Live Application**: https://krushimitra-kohl.vercel.app/
+- **Live Application**: https://krushimitra-ai-agent.vercel.app/
 
 `(please open it in your smartphone it really looks beautiful)`
 
